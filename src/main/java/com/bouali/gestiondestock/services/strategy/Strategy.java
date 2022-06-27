@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.services.strategy;
+package com.moazmar.stocksphere.services.strategy;
 
 import com.flickr4java.flickr.FlickrException;
 import java.io.InputStream;

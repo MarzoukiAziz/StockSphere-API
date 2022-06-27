@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.model;
+package com.moazmar.stocksphere.model;
 
 import java.math.BigDecimal;
 import java.time.Instant;

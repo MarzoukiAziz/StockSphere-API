@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.CommandeFournisseurDto;
-import com.bouali.gestiondestock.dto.LigneCommandeFournisseurDto;
-import com.bouali.gestiondestock.model.EtatCommande;
+import com.moazmar.stocksphere.dto.CommandeFournisseurDto;
+import com.moazmar.stocksphere.dto.LigneCommandeFournisseurDto;
+import com.moazmar.stocksphere.model.EtatCommande;
 import java.math.BigDecimal;
 import java.util.List;
 

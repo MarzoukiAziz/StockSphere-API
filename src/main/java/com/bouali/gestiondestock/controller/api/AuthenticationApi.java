@@ -1,9 +1,9 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.AUTHENTICATION_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.AUTHENTICATION_ENDPOINT;
 
-import com.bouali.gestiondestock.dto.auth.AuthenticationRequest;
-import com.bouali.gestiondestock.dto.auth.AuthenticationResponse;
+import com.moazmar.stocksphere.dto.auth.AuthenticationRequest;
+import com.moazmar.stocksphere.dto.auth.AuthenticationResponse;
 import io.swagger.annotations.Api;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

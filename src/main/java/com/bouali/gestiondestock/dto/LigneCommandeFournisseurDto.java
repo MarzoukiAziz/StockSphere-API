@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.CommandeFournisseur;
-import com.bouali.gestiondestock.model.LigneCommandeFournisseur;
+import com.moazmar.stocksphere.model.CommandeFournisseur;
+import com.moazmar.stocksphere.model.LigneCommandeFournisseur;
 import java.math.BigDecimal;
 import lombok.Builder;
 import lombok.Data;

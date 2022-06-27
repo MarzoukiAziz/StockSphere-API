@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.interceptor;
+package com.moazmar.stocksphere.interceptor;
 
 import org.hibernate.EmptyInterceptor;
 import org.slf4j.MDC;

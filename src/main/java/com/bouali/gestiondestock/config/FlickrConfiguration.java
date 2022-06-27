@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.config;
+package com.moazmar.stocksphere.config;
 
 import com.flickr4java.flickr.Flickr;
 import com.flickr4java.flickr.FlickrException;

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.LigneCommandeClient;
+import com.moazmar.stocksphere.model.LigneCommandeClient;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.math.BigDecimal;
 import lombok.Builder;

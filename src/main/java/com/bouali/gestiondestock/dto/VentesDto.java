@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.Ventes;
+import com.moazmar.stocksphere.model.Ventes;
 import java.time.Instant;
 import java.util.List;
 import lombok.Builder;

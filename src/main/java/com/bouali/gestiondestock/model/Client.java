@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.model;
+package com.moazmar.stocksphere.model;
 
 import java.util.List;
 import javax.persistence.CascadeType;

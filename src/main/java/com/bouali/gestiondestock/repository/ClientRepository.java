@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.Client;
+import com.moazmar.stocksphere.model.Client;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ClientRepository extends JpaRepository<Client, Integer> {

@@ -1,10 +1,10 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.APP_ROOT;
+import static com.moazmar.stocksphere.utils.Constants.APP_ROOT;
 
-import com.bouali.gestiondestock.dto.CommandeClientDto;
-import com.bouali.gestiondestock.dto.LigneCommandeClientDto;
-import com.bouali.gestiondestock.model.EtatCommande;
+import com.moazmar.stocksphere.dto.CommandeClientDto;
+import com.moazmar.stocksphere.dto.LigneCommandeClientDto;
+import com.moazmar.stocksphere.model.EtatCommande;
 import io.swagger.annotations.Api;
 import java.math.BigDecimal;
 import java.util.List;

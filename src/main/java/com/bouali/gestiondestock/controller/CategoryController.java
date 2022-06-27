@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
-import com.bouali.gestiondestock.controller.api.CategoryApi;
-import com.bouali.gestiondestock.dto.CategoryDto;
-import com.bouali.gestiondestock.services.CategoryService;
+import com.moazmar.stocksphere.controller.api.CategoryApi;
+import com.moazmar.stocksphere.dto.CategoryDto;
+import com.moazmar.stocksphere.services.CategoryService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

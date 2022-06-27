@@ -1,15 +1,15 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
-import com.bouali.gestiondestock.dto.CategoryDto;
-import com.bouali.gestiondestock.exception.EntityNotFoundException;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.exception.InvalidOperationException;
-import com.bouali.gestiondestock.model.Article;
-import com.bouali.gestiondestock.repository.ArticleRepository;
-import com.bouali.gestiondestock.repository.CategoryRepository;
-import com.bouali.gestiondestock.services.CategoryService;
-import com.bouali.gestiondestock.validator.CategoryValidator;
+import com.moazmar.stocksphere.dto.CategoryDto;
+import com.moazmar.stocksphere.exception.EntityNotFoundException;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.exception.InvalidOperationException;
+import com.moazmar.stocksphere.model.Article;
+import com.moazmar.stocksphere.repository.ArticleRepository;
+import com.moazmar.stocksphere.repository.CategoryRepository;
+import com.moazmar.stocksphere.services.CategoryService;
+import com.moazmar.stocksphere.validator.CategoryValidator;
 import java.util.List;
 import java.util.stream.Collectors;
 import lombok.extern.slf4j.Slf4j;

@@ -1,11 +1,11 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.APP_ROOT;
+import static com.moazmar.stocksphere.utils.Constants.APP_ROOT;
 
-import com.bouali.gestiondestock.dto.ArticleDto;
-import com.bouali.gestiondestock.dto.LigneCommandeClientDto;
-import com.bouali.gestiondestock.dto.LigneCommandeFournisseurDto;
-import com.bouali.gestiondestock.dto.LigneVenteDto;
+import com.moazmar.stocksphere.dto.ArticleDto;
+import com.moazmar.stocksphere.dto.LigneCommandeClientDto;
+import com.moazmar.stocksphere.dto.LigneCommandeFournisseurDto;
+import com.moazmar.stocksphere.dto.LigneVenteDto;
 import io.swagger.annotations.Api;
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;

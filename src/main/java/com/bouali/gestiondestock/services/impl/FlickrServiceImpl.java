@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
-import com.bouali.gestiondestock.services.FlickrService;
+import com.moazmar.stocksphere.services.FlickrService;
 import com.flickr4java.flickr.Flickr;
 import com.flickr4java.flickr.FlickrException;
 import com.flickr4java.flickr.REST;

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.LigneCommandeClient;
+import com.moazmar.stocksphere.model.LigneCommandeClient;
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;
 

@@ -1,10 +1,10 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
 
-import com.bouali.gestiondestock.controller.api.UtilisateurApi;
-import com.bouali.gestiondestock.dto.ChangerMotDePasseUtilisateurDto;
-import com.bouali.gestiondestock.dto.UtilisateurDto;
-import com.bouali.gestiondestock.services.UtilisateurService;
+import com.moazmar.stocksphere.controller.api.UtilisateurApi;
+import com.moazmar.stocksphere.dto.ChangerMotDePasseUtilisateurDto;
+import com.moazmar.stocksphere.dto.UtilisateurDto;
+import com.moazmar.stocksphere.services.UtilisateurService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

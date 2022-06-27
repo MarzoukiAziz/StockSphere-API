@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.ChangerMotDePasseUtilisateurDto;
-import com.bouali.gestiondestock.dto.UtilisateurDto;
+import com.moazmar.stocksphere.dto.ChangerMotDePasseUtilisateurDto;
+import com.moazmar.stocksphere.dto.UtilisateurDto;
 import java.util.List;
 
 public interface UtilisateurService {

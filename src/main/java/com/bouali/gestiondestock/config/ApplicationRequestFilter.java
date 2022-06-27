@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.config;
+package com.moazmar.stocksphere.config;
 
-import com.bouali.gestiondestock.services.auth.ApplicationUserDetailsService;
-import com.bouali.gestiondestock.utils.JwtUtil;
+import com.moazmar.stocksphere.services.auth.ApplicationUserDetailsService;
+import com.moazmar.stocksphere.utils.JwtUtil;
 import java.io.IOException;
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.Entreprise;
+import com.moazmar.stocksphere.model.Entreprise;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.util.List;
 import lombok.Builder;

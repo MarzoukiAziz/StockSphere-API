@@ -1,10 +1,10 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
-import com.bouali.gestiondestock.controller.api.CommandeClientApi;
-import com.bouali.gestiondestock.dto.CommandeClientDto;
-import com.bouali.gestiondestock.dto.LigneCommandeClientDto;
-import com.bouali.gestiondestock.model.EtatCommande;
-import com.bouali.gestiondestock.services.CommandeClientService;
+import com.moazmar.stocksphere.controller.api.CommandeClientApi;
+import com.moazmar.stocksphere.dto.CommandeClientDto;
+import com.moazmar.stocksphere.dto.LigneCommandeClientDto;
+import com.moazmar.stocksphere.model.EtatCommande;
+import com.moazmar.stocksphere.services.CommandeClientService;
 import java.math.BigDecimal;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

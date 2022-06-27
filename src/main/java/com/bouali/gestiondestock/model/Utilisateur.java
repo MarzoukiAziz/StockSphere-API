@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.model;
+package com.moazmar.stocksphere.model;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import java.time.Instant;

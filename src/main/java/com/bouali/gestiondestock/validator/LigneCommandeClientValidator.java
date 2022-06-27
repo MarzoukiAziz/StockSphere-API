@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.validator;
+package com.moazmar.stocksphere.validator;
 
-import com.bouali.gestiondestock.dto.LigneCommandeClientDto;
+import com.moazmar.stocksphere.dto.LigneCommandeClientDto;
 import java.util.ArrayList;
 import java.util.List;
 

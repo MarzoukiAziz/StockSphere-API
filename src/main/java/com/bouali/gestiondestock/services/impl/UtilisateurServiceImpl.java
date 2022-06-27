@@ -1,15 +1,15 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
-import com.bouali.gestiondestock.dto.ChangerMotDePasseUtilisateurDto;
-import com.bouali.gestiondestock.dto.UtilisateurDto;
-import com.bouali.gestiondestock.exception.EntityNotFoundException;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.exception.InvalidOperationException;
-import com.bouali.gestiondestock.model.Utilisateur;
-import com.bouali.gestiondestock.repository.UtilisateurRepository;
-import com.bouali.gestiondestock.services.UtilisateurService;
-import com.bouali.gestiondestock.validator.UtilisateurValidator;
+import com.moazmar.stocksphere.dto.ChangerMotDePasseUtilisateurDto;
+import com.moazmar.stocksphere.dto.UtilisateurDto;
+import com.moazmar.stocksphere.exception.EntityNotFoundException;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.exception.InvalidOperationException;
+import com.moazmar.stocksphere.model.Utilisateur;
+import com.moazmar.stocksphere.repository.UtilisateurRepository;
+import com.moazmar.stocksphere.services.UtilisateurService;
+import com.moazmar.stocksphere.validator.UtilisateurValidator;
 import java.util.Collections;
 import java.util.List;
 import java.util.Optional;

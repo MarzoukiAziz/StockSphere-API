@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.services.auth;
+package com.moazmar.stocksphere.services.auth;
 
-import com.bouali.gestiondestock.dto.UtilisateurDto;
-import com.bouali.gestiondestock.model.auth.ExtendedUser;
-import com.bouali.gestiondestock.services.UtilisateurService;
+import com.moazmar.stocksphere.dto.UtilisateurDto;
+import com.moazmar.stocksphere.model.auth.ExtendedUser;
+import com.moazmar.stocksphere.services.UtilisateurService;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

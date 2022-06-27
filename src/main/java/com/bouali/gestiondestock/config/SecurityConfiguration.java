@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.config;
+package com.moazmar.stocksphere.config;
 
-import com.bouali.gestiondestock.services.auth.ApplicationUserDetailsService;
+import com.moazmar.stocksphere.services.auth.ApplicationUserDetailsService;
 import java.util.Arrays;
 import java.util.Collections;
 import org.springframework.beans.factory.annotation.Autowired;

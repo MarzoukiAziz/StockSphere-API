@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock;
+package com.moazmar.stocksphere;
 
 //@SpringBootTest
-class ApiGestionDeStockApplicationTests {
+class ApistocksphereApplicationTests {
 
   // @Test
   void contextLoads() {

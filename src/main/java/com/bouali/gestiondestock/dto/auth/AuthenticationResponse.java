@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.dto.auth;
+package com.moazmar.stocksphere.dto.auth;
 
 import lombok.Builder;
 import lombok.Data;

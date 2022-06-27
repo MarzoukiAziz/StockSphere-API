@@ -8,10 +8,10 @@
     <version>2.4.2</version>
     <relativePath/> <!-- lookup parent from repository -->
   </parent>
-  <groupId>com.bouali</groupId>
-  <artifactId>gestiondestock</artifactId>
+  <groupId>com.moazmar</groupId>
+  <artifactId>stocksphere</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>API_Gestion_de_stock</name>
+  <name>StockSphere</name>
   <description>API de gestion de stock</description>
   <properties>
     <java.version>11</java.version>
@@ -102,18 +102,14 @@
             <apiSource>
               <springmvc>true</springmvc>
               <locations>
-                <location>com.bouali.gestiondestock.controller.api</location>
+                <location>com.moazmar.stocksphere.controller.api</location>
               </locations>
               <basePath>http://localhost:8081</basePath>
               <info>
                 <title>Swagger Api Documentation for Gestion de stock application</title>
                 <version>${project.version}</version>
                 <description>Swagger Api documentation for Gestion de stock application</description>
-                <contact>
-                  <email>bouali.social@gmail.com</email>
-                  <name>Ali Bouali</name>
-                  <url>https://www.udemy.com/user/bouali-ali/</url>
-                </contact>
+              
               </info>
               <outputPath>${project.build.directory}</outputPath>
               <outputFormats>json</outputFormats>

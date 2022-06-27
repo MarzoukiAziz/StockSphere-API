@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.Entreprise;
+import com.moazmar.stocksphere.model.Entreprise;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface EntrepriseRepository extends JpaRepository<Entreprise, Integer> {

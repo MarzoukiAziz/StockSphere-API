@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.MvtStk;
+import com.moazmar.stocksphere.model.MvtStk;
 import java.math.BigDecimal;
 import java.util.List;
 import org.springframework.data.jpa.repository.JpaRepository;

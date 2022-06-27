@@ -1,10 +1,10 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
 
-import static com.bouali.gestiondestock.utils.Constants.UTILISATEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.UTILISATEUR_ENDPOINT;
 
-import com.bouali.gestiondestock.dto.ChangerMotDePasseUtilisateurDto;
-import com.bouali.gestiondestock.dto.UtilisateurDto;
+import com.moazmar.stocksphere.dto.ChangerMotDePasseUtilisateurDto;
+import com.moazmar.stocksphere.dto.UtilisateurDto;
 import io.swagger.annotations.Api;
 import java.util.List;
 import org.springframework.web.bind.annotation.DeleteMapping;

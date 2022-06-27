@@ -1,15 +1,15 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.COMMANDE_FOURNISSEUR_ENDPOINT;
-import static com.bouali.gestiondestock.utils.Constants.CREATE_COMMANDE_FOURNISSEUR_ENDPOINT;
-import static com.bouali.gestiondestock.utils.Constants.DELETE_COMMANDE_FOURNISSEUR_ENDPOINT;
-import static com.bouali.gestiondestock.utils.Constants.FIND_ALL_COMMANDE_FOURNISSEUR_ENDPOINT;
-import static com.bouali.gestiondestock.utils.Constants.FIND_COMMANDE_FOURNISSEUR_BY_CODE_ENDPOINT;
-import static com.bouali.gestiondestock.utils.Constants.FIND_COMMANDE_FOURNISSEUR_BY_ID_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.COMMANDE_FOURNISSEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.CREATE_COMMANDE_FOURNISSEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.DELETE_COMMANDE_FOURNISSEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.FIND_ALL_COMMANDE_FOURNISSEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.FIND_COMMANDE_FOURNISSEUR_BY_CODE_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.FIND_COMMANDE_FOURNISSEUR_BY_ID_ENDPOINT;
 
-import com.bouali.gestiondestock.dto.CommandeFournisseurDto;
-import com.bouali.gestiondestock.dto.LigneCommandeFournisseurDto;
-import com.bouali.gestiondestock.model.EtatCommande;
+import com.moazmar.stocksphere.dto.CommandeFournisseurDto;
+import com.moazmar.stocksphere.dto.LigneCommandeFournisseurDto;
+import com.moazmar.stocksphere.model.EtatCommande;
 import io.swagger.annotations.Api;
 import java.math.BigDecimal;
 import java.util.List;

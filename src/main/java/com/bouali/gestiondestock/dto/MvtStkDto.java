@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.MvtStk;
-import com.bouali.gestiondestock.model.SourceMvtStk;
-import com.bouali.gestiondestock.model.TypeMvtStk;
+import com.moazmar.stocksphere.model.MvtStk;
+import com.moazmar.stocksphere.model.SourceMvtStk;
+import com.moazmar.stocksphere.model.TypeMvtStk;
 import java.math.BigDecimal;
 import java.time.Instant;
 import lombok.Builder;

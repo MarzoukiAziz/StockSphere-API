@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.config;
+package com.moazmar.stocksphere.config;
 
-import static com.bouali.gestiondestock.utils.Constants.APP_ROOT;
+import static com.moazmar.stocksphere.utils.Constants.APP_ROOT;
 
 import java.util.Arrays;
 import java.util.Collections;
@@ -38,7 +38,7 @@ public class SwaggerConfiguration {
         .securitySchemes(Collections.singletonList(apiKey()))
         .useDefaultResponseMessages(false)
         .select()
-        .apis(RequestHandlerSelectors.basePackage("com.bouali.gestiondestock"))
+        .apis(RequestHandlerSelectors.basePackage("com.moazmar.stocksphere"))
         .paths(PathSelectors.any())
         .build();
   }

@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.exception;
+package com.moazmar.stocksphere.exception;
 
 public enum ErrorCodes {
 

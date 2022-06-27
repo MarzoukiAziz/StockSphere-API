@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.Article;
+import com.moazmar.stocksphere.model.Article;
 import java.math.BigDecimal;
 import lombok.Builder;
 import lombok.Data;

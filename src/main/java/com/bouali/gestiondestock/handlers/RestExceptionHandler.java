@@ -1,9 +1,9 @@
-package com.bouali.gestiondestock.handlers;
+package com.moazmar.stocksphere.handlers;
 
-import com.bouali.gestiondestock.exception.EntityNotFoundException;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.exception.InvalidOperationException;
+import com.moazmar.stocksphere.exception.EntityNotFoundException;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.exception.InvalidOperationException;
 import java.util.Collections;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

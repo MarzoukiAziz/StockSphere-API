@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.handlers;
+package com.moazmar.stocksphere.handlers;
 
-import com.bouali.gestiondestock.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.ErrorCodes;
 import java.util.ArrayList;
 import java.util.List;
 import lombok.AllArgsConstructor;

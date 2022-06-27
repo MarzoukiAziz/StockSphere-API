@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.VENTES_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.VENTES_ENDPOINT;
 
-import com.bouali.gestiondestock.dto.VentesDto;
+import com.moazmar.stocksphere.dto.VentesDto;
 import io.swagger.annotations.Api;
 import java.util.List;
 import org.springframework.web.bind.annotation.DeleteMapping;

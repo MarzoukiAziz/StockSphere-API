@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.CommandeClient;
-import com.bouali.gestiondestock.model.CommandeFournisseur;
+import com.moazmar.stocksphere.model.CommandeClient;
+import com.moazmar.stocksphere.model.CommandeFournisseur;
 import java.util.List;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.MvtStkDto;
+import com.moazmar.stocksphere.dto.MvtStkDto;
 import java.math.BigDecimal;
 import java.util.List;
 

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
-import static com.bouali.gestiondestock.utils.Constants.APP_ROOT;
+import static com.moazmar.stocksphere.utils.Constants.APP_ROOT;
 
 import com.flickr4java.flickr.FlickrException;
 import io.swagger.annotations.Api;

@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.Utilisateur;
+import com.moazmar.stocksphere.model.Utilisateur;
 import java.time.Instant;
 import java.util.List;
 import java.util.stream.Collectors;

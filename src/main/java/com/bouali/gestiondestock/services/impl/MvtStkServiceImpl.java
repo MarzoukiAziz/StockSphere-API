@@ -1,13 +1,13 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
-import com.bouali.gestiondestock.dto.MvtStkDto;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.model.TypeMvtStk;
-import com.bouali.gestiondestock.repository.MvtStkRepository;
-import com.bouali.gestiondestock.services.ArticleService;
-import com.bouali.gestiondestock.services.MvtStkService;
-import com.bouali.gestiondestock.validator.MvtStkValidator;
+import com.moazmar.stocksphere.dto.MvtStkDto;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.model.TypeMvtStk;
+import com.moazmar.stocksphere.repository.MvtStkRepository;
+import com.moazmar.stocksphere.services.ArticleService;
+import com.moazmar.stocksphere.services.MvtStkService;
+import com.moazmar.stocksphere.validator.MvtStkValidator;
 import java.math.BigDecimal;
 import java.util.List;
 import java.util.stream.Collectors;

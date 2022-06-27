@@ -1,14 +1,14 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-import com.bouali.gestiondestock.dto.CategoryDto;
-import com.bouali.gestiondestock.exception.EntityNotFoundException;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.services.CategoryService;
+import com.moazmar.stocksphere.dto.CategoryDto;
+import com.moazmar.stocksphere.exception.EntityNotFoundException;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.services.CategoryService;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;

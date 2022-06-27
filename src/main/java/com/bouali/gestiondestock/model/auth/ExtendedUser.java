@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.model.auth;
+package com.moazmar.stocksphere.model.auth;
 
 import java.util.Collection;
 import lombok.Getter;

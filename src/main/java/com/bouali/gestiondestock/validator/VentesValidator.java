@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.validator;
+package com.moazmar.stocksphere.validator;
 
-import com.bouali.gestiondestock.dto.VentesDto;
+import com.moazmar.stocksphere.dto.VentesDto;
 import java.util.ArrayList;
 import java.util.List;
 import org.springframework.util.StringUtils;

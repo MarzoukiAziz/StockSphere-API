@@ -1,7 +1,7 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.CommandeClient;
-import com.bouali.gestiondestock.model.EtatCommande;
+import com.moazmar.stocksphere.model.CommandeClient;
+import com.moazmar.stocksphere.model.EtatCommande;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.annotation.JsonProperty.Access;

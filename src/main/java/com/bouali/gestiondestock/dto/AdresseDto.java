@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
-import com.bouali.gestiondestock.model.Adresse;
+import com.moazmar.stocksphere.model.Adresse;
 import lombok.Builder;
 import lombok.Data;
 

@@ -1,15 +1,15 @@
-package com.bouali.gestiondestock.services.impl;
+package com.moazmar.stocksphere.services.impl;
 
-import com.bouali.gestiondestock.dto.FournisseurDto;
-import com.bouali.gestiondestock.exception.EntityNotFoundException;
-import com.bouali.gestiondestock.exception.ErrorCodes;
-import com.bouali.gestiondestock.exception.InvalidEntityException;
-import com.bouali.gestiondestock.exception.InvalidOperationException;
-import com.bouali.gestiondestock.model.CommandeClient;
-import com.bouali.gestiondestock.repository.CommandeFournisseurRepository;
-import com.bouali.gestiondestock.repository.FournisseurRepository;
-import com.bouali.gestiondestock.services.FournisseurService;
-import com.bouali.gestiondestock.validator.FournisseurValidator;
+import com.moazmar.stocksphere.dto.FournisseurDto;
+import com.moazmar.stocksphere.exception.EntityNotFoundException;
+import com.moazmar.stocksphere.exception.ErrorCodes;
+import com.moazmar.stocksphere.exception.InvalidEntityException;
+import com.moazmar.stocksphere.exception.InvalidOperationException;
+import com.moazmar.stocksphere.model.CommandeClient;
+import com.moazmar.stocksphere.repository.CommandeFournisseurRepository;
+import com.moazmar.stocksphere.repository.FournisseurRepository;
+import com.moazmar.stocksphere.services.FournisseurService;
+import com.moazmar.stocksphere.validator.FournisseurValidator;
 import java.util.List;
 import java.util.stream.Collectors;
 import lombok.extern.slf4j.Slf4j;

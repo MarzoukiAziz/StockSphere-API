@@ -1,12 +1,12 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
 
-import com.bouali.gestiondestock.controller.api.AuthenticationApi;
-import com.bouali.gestiondestock.dto.auth.AuthenticationRequest;
-import com.bouali.gestiondestock.dto.auth.AuthenticationResponse;
-import com.bouali.gestiondestock.model.auth.ExtendedUser;
-import com.bouali.gestiondestock.services.auth.ApplicationUserDetailsService;
-import com.bouali.gestiondestock.utils.JwtUtil;
+import com.moazmar.stocksphere.controller.api.AuthenticationApi;
+import com.moazmar.stocksphere.dto.auth.AuthenticationRequest;
+import com.moazmar.stocksphere.dto.auth.AuthenticationResponse;
+import com.moazmar.stocksphere.model.auth.ExtendedUser;
+import com.moazmar.stocksphere.services.auth.ApplicationUserDetailsService;
+import com.moazmar.stocksphere.utils.JwtUtil;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
-import com.bouali.gestiondestock.controller.api.ClientApi;
-import com.bouali.gestiondestock.dto.ClientDto;
-import com.bouali.gestiondestock.services.ClientService;
+import com.moazmar.stocksphere.controller.api.ClientApi;
+import com.moazmar.stocksphere.dto.ClientDto;
+import com.moazmar.stocksphere.services.ClientService;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RestController;

@@ -1,4 +1,4 @@
-package com.bouali.gestiondestock.dto;
+package com.moazmar.stocksphere.dto;
 
 
 import lombok.Builder;

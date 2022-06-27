@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.ClientDto;
+import com.moazmar.stocksphere.dto.ClientDto;
 import java.util.List;
 
 public interface ClientService {

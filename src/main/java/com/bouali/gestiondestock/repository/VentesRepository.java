@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.repository;
+package com.moazmar.stocksphere.repository;
 
-import com.bouali.gestiondestock.model.Ventes;
+import com.moazmar.stocksphere.model.Ventes;
 import java.util.Optional;
 import org.springframework.data.jpa.repository.JpaRepository;
 

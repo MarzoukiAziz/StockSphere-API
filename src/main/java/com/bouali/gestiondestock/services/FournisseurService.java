@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.FournisseurDto;
+import com.moazmar.stocksphere.dto.FournisseurDto;
 import java.util.List;
 
 public interface FournisseurService {

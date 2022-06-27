@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.utils;
+package com.moazmar.stocksphere.utils;
 
-import com.bouali.gestiondestock.model.auth.ExtendedUser;
+import com.moazmar.stocksphere.model.auth.ExtendedUser;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

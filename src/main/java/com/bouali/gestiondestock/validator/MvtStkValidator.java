@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.validator;
+package com.moazmar.stocksphere.validator;
 
-import com.bouali.gestiondestock.dto.MvtStkDto;
+import com.moazmar.stocksphere.dto.MvtStkDto;
 import java.math.BigDecimal;
 import java.util.ArrayList;
 import java.util.List;

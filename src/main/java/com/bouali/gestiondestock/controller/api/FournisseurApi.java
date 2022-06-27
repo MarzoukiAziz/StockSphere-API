@@ -1,9 +1,9 @@
-package com.bouali.gestiondestock.controller.api;
+package com.moazmar.stocksphere.controller.api;
 
 
-import static com.bouali.gestiondestock.utils.Constants.FOURNISSEUR_ENDPOINT;
+import static com.moazmar.stocksphere.utils.Constants.FOURNISSEUR_ENDPOINT;
 
-import com.bouali.gestiondestock.dto.FournisseurDto;
+import com.moazmar.stocksphere.dto.FournisseurDto;
 import io.swagger.annotations.Api;
 import java.util.List;
 import org.springframework.web.bind.annotation.DeleteMapping;

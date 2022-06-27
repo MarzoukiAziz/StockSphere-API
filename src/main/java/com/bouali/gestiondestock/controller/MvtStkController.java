@@ -1,8 +1,8 @@
-package com.bouali.gestiondestock.controller;
+package com.moazmar.stocksphere.controller;
 
-import com.bouali.gestiondestock.controller.api.MvtStkApi;
-import com.bouali.gestiondestock.dto.MvtStkDto;
-import com.bouali.gestiondestock.services.MvtStkService;
+import com.moazmar.stocksphere.controller.api.MvtStkApi;
+import com.moazmar.stocksphere.dto.MvtStkDto;
+import com.moazmar.stocksphere.services.MvtStkService;
 import java.math.BigDecimal;
 import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;

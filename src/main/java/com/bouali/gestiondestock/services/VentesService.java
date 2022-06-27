@@ -1,6 +1,6 @@
-package com.bouali.gestiondestock.services;
+package com.moazmar.stocksphere.services;
 
-import com.bouali.gestiondestock.dto.VentesDto;
+import com.moazmar.stocksphere.dto.VentesDto;
 import java.util.List;
 
 public interface VentesService {
